@@ -1,4 +1,4 @@
-# vuetify-todo
+# Quick's Todo
 
 ## Project setup
 ```
